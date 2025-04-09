@@ -5,3 +5,9 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 object Login
+
+@Serializable
+object DashBoard
+
+@Serializable
+object Register
